@@ -8,3 +8,6 @@ module.exports = solution;
 // npm i jest-cli -g
 // package.json: "scripts": { "test": "jest" }
 // npm test centuryFromYear
+
+// alternative solution
+// const solution = y => Math.ceil(y / 100);
